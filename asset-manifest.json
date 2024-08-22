@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62fe7cbc.css",
+    "main.js": "/static/js/main.11d9c9b6.js",
+    "static/media/sun.svg": "/static/media/sun.5008154d46809d46a93754fbb2c83b59.svg",
+    "index.html": "/index.html",
+    "static/media/moon.svg": "/static/media/moon.6e07c9766a8bf396d7c07ebc029f449c.svg",
+    "static/media/telegram.svg": "/static/media/telegram.43eb7ab0cb6fa1992f3c99671fc54029.svg",
+    "static/media/email.svg": "/static/media/email.5c7a3716d5c080fb3e1f80c86121d193.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.1d5e48a6db0ee3cf52bd0e8189193432.svg",
+    "static/media/close.svg": "/static/media/close.eb12b304513daead2da58168e7c1a2f0.svg",
+    "static/media/download.svg": "/static/media/download.d5cec63ae805726edb3cbc2f6a8adf72.svg",
+    "static/media/dashed-circle.svg": "/static/media/dashed-circle.1b0d562504f883ad1364e707f6e54ea1.svg",
+    "main.62fe7cbc.css.map": "/static/css/main.62fe7cbc.css.map",
+    "main.11d9c9b6.js.map": "/static/js/main.11d9c9b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62fe7cbc.css",
+    "static/js/main.11d9c9b6.js"
+  ]
+}
