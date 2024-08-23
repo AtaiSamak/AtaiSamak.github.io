@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.62fe7cbc.css",
-    "main.js": "/static/js/main.11d9c9b6.js",
+    "main.css": "/static/css/main.14a808f7.css",
+    "main.js": "/static/js/main.d75ff9ef.js",
+    "static/media/resume_ru.pdf": "/static/media/resume_ru.5026f945d56964632002.pdf",
+    "static/media/resume_en.pdf": "/static/media/resume_en.c22e72f08281202564f6.pdf",
     "static/media/sun.svg": "/static/media/sun.5008154d46809d46a93754fbb2c83b59.svg",
     "index.html": "/index.html",
     "static/media/moon.svg": "/static/media/moon.6e07c9766a8bf396d7c07ebc029f449c.svg",
@@ -11,11 +13,11 @@
     "static/media/close.svg": "/static/media/close.eb12b304513daead2da58168e7c1a2f0.svg",
     "static/media/download.svg": "/static/media/download.d5cec63ae805726edb3cbc2f6a8adf72.svg",
     "static/media/dashed-circle.svg": "/static/media/dashed-circle.1b0d562504f883ad1364e707f6e54ea1.svg",
-    "main.62fe7cbc.css.map": "/static/css/main.62fe7cbc.css.map",
-    "main.11d9c9b6.js.map": "/static/js/main.11d9c9b6.js.map"
+    "main.14a808f7.css.map": "/static/css/main.14a808f7.css.map",
+    "main.d75ff9ef.js.map": "/static/js/main.d75ff9ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.62fe7cbc.css",
-    "static/js/main.11d9c9b6.js"
+    "static/css/main.14a808f7.css",
+    "static/js/main.d75ff9ef.js"
   ]
 }
