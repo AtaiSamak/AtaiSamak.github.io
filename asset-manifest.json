@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.14a808f7.css",
-    "main.js": "/static/js/main.d75ff9ef.js",
+    "main.css": "/static/css/main.3824e585.css",
+    "main.js": "/static/js/main.9d2ab508.js",
     "static/media/resume_ru.pdf": "/static/media/resume_ru.5026f945d56964632002.pdf",
-    "static/media/resume_en.pdf": "/static/media/resume_en.c22e72f08281202564f6.pdf",
-    "static/media/sun.svg": "/static/media/sun.5008154d46809d46a93754fbb2c83b59.svg",
+    "static/media/resume_de.pdf": "/static/media/resume_de.db1c2be4428483f78d64.pdf",
+    "static/media/resume_en.pdf": "/static/media/resume_en.a2403e995d0030c13249.pdf",
+    "static/media/sun.svg": "/static/media/sun.3ee28ae8ae69560cb0fa49cd8e6d04e0.svg",
     "index.html": "/index.html",
-    "static/media/moon.svg": "/static/media/moon.6e07c9766a8bf396d7c07ebc029f449c.svg",
-    "static/media/telegram.svg": "/static/media/telegram.43eb7ab0cb6fa1992f3c99671fc54029.svg",
-    "static/media/email.svg": "/static/media/email.5c7a3716d5c080fb3e1f80c86121d193.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.1d5e48a6db0ee3cf52bd0e8189193432.svg",
-    "static/media/close.svg": "/static/media/close.eb12b304513daead2da58168e7c1a2f0.svg",
-    "static/media/download.svg": "/static/media/download.d5cec63ae805726edb3cbc2f6a8adf72.svg",
-    "static/media/dashed-circle.svg": "/static/media/dashed-circle.1b0d562504f883ad1364e707f6e54ea1.svg",
-    "main.14a808f7.css.map": "/static/css/main.14a808f7.css.map",
-    "main.d75ff9ef.js.map": "/static/js/main.d75ff9ef.js.map"
+    "static/media/moon.svg": "/static/media/moon.41d28b982fbaab2d61958933caf5aa22.svg",
+    "static/media/telegram.svg": "/static/media/telegram.ac06137152e0a6d9fe0402117d68b761.svg",
+    "static/media/email.svg": "/static/media/email.bcec905df3821348c02849475cb6f7e5.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.60e0be1728e5657cc708302351eab97b.svg",
+    "static/media/close.svg": "/static/media/close.1ae786f7cf886abe8dfe2b1d78c6cc78.svg",
+    "static/media/download.svg": "/static/media/download.61b226801e70244efbd4759c69b1095a.svg",
+    "static/media/dashed-circle.svg": "/static/media/dashed-circle.e2c1d75772c1a0c28533647c127ef67a.svg",
+    "main.3824e585.css.map": "/static/css/main.3824e585.css.map",
+    "main.9d2ab508.js.map": "/static/js/main.9d2ab508.js.map"
   },
   "entrypoints": [
-    "static/css/main.14a808f7.css",
-    "static/js/main.d75ff9ef.js"
+    "static/css/main.3824e585.css",
+    "static/js/main.9d2ab508.js"
   ]
 }
