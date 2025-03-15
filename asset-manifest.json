@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3824e585.css",
-    "main.js": "/static/js/main.08f59d98.js",
+    "main.css": "/static/css/main.f2fc7e89.css",
+    "main.js": "/static/js/main.ae171aed.js",
     "static/media/resume_ru.pdf": "/static/media/resume_ru.5026f945d56964632002.pdf",
     "static/media/resume_de.pdf": "/static/media/resume_de.db1c2be4428483f78d64.pdf",
-    "static/media/resume_en.pdf": "/static/media/resume_en.a2403e995d0030c13249.pdf",
+    "static/media/resume_en.pdf": "/static/media/resume_en.8810a9e24235dacc8f84.pdf",
     "static/media/sun.svg": "/static/media/sun.3ee28ae8ae69560cb0fa49cd8e6d04e0.svg",
     "index.html": "/index.html",
     "static/media/moon.svg": "/static/media/moon.41d28b982fbaab2d61958933caf5aa22.svg",
@@ -14,11 +14,11 @@
     "static/media/close.svg": "/static/media/close.1ae786f7cf886abe8dfe2b1d78c6cc78.svg",
     "static/media/download.svg": "/static/media/download.61b226801e70244efbd4759c69b1095a.svg",
     "static/media/dashed-circle.svg": "/static/media/dashed-circle.e2c1d75772c1a0c28533647c127ef67a.svg",
-    "main.3824e585.css.map": "/static/css/main.3824e585.css.map",
-    "main.08f59d98.js.map": "/static/js/main.08f59d98.js.map"
+    "main.f2fc7e89.css.map": "/static/css/main.f2fc7e89.css.map",
+    "main.ae171aed.js.map": "/static/js/main.ae171aed.js.map"
   },
   "entrypoints": [
-    "static/css/main.3824e585.css",
-    "static/js/main.08f59d98.js"
+    "static/css/main.f2fc7e89.css",
+    "static/js/main.ae171aed.js"
   ]
 }
